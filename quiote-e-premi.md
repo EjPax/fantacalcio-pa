@@ -35,13 +35,25 @@ Quota 170 x 8 = 1360
 
 ### Premi gionrata
 
-29. ??      
-30. kita
-31. chivas
-32. odio
-33. korka
-34. la best
-35. hero
-36. bobo
-37. chivas
-38. la best
+29. ??        18
+30. kita      18
+31. chivas    18
+32. odio      18
+33. korka     18
+34. la best   18
+35. hero      18
+36. bobo      18
+37. chivas    18
+38. la best   18
+
+### Tot
+
+- AC Denti           450
+- La bestia e bianca 381 (270 + 75 + 18 + 18)
+- Korkazzo           348 (180 + 150 + 18)
+- HEROINE            168 (150 + 18)
+- Chivas              36 (18 + 18)
+- Kita                18
+- Odio                18
+- Bobo                18
+- Interstellar         0
