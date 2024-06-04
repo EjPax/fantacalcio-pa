@@ -31,11 +31,11 @@ Quota 170 x 8 = 1360
 ### Easter Cup
 
 1. Korkazzo 150
-2. ??
+2. AC Denti  75
 
 ### Premi gionrata
 
-29. ??        18
+29. chivas / Ac denti        9 + 9
 30. kita      18
 31. chivas    18
 32. odio      18
@@ -46,14 +46,30 @@ Quota 170 x 8 = 1360
 37. chivas    18
 38. la best   18
 
-### Tot
+### Premi finali
 
-- AC Denti           450
-- La bestia e bianca 381 (270 + 75 + 18 + 18)
+- AC Denti           459€
+  - 1o classificato "Master League"    450€
+  - premio di giornata 29a (ex aequo)    9€
+- La bestia e bianca 381€
+  - 2o classificato "Master League"    270€
+  - 2o classificato "Xmas Cup"          75€
+  - premio di giornata 34a giornata     18€
+  - premio di giornata 38a giornata     18€
 - Korkazzo           348 (180 + 150 + 18)
+  - 3o classificato "Master League"    270€
+  - 1o classificato "Easter Cup"       150€
+  - premio di giornata 33a giornata     18€
 - HEROINE            168 (150 + 18)
-- Chivas              36 (18 + 18)
+  - 1o classificato "Xmas Cup"       150€
+  - premio di giornata 35a giornata     18€
+- Chivas              45 (18 + 18 + 9)
+  - premio di giornata 29a (ex aequo)   18€
+  - premio di giornata 31a giornata     18€
+  - premio di giornata 37a giornata     18€
 - Kita                18
+  - premio di giornata 30a giornata     18€
 - Odio                18
+  - premio di giornata 32a giornata     18€
 - Bobo                18
-- Interstellar         0
+  - premio di giornata 36a giornata     18€
