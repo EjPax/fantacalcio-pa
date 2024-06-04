@@ -48,8 +48,9 @@ Quota 170 x 8 = 1360
 
 ### Premi finali
 
-- AC Denti           459€
+- AC Denti           534€
   - 1o classificato "Master League"    450€
+  - 2o classificato "Easter Cup"        75€
   - premio di giornata 29a (ex aequo)    9€
 - La bestia e bianca 381€
   - 2o classificato "Master League"    270€
