@@ -56,20 +56,20 @@ Quota 170 x 8 = 1360
   - 2o classificato "Xmas Cup"          75€
   - premio di giornata 34a giornata     18€
   - premio di giornata 38a giornata     18€
-- Korkazzo           348 (180 + 150 + 18)
-  - 3o classificato "Master League"    270€
+- Korkazzo           348€
+  - 3o classificato "Master League"    180€
   - 1o classificato "Easter Cup"       150€
   - premio di giornata 33a giornata     18€
-- HEROINE            168 (150 + 18)
-  - 1o classificato "Xmas Cup"       150€
+- HEROINE            168€
+  - 1o classificato "Xmas Cup"         150€
   - premio di giornata 35a giornata     18€
-- Chivas              45 (18 + 18 + 9)
+- Chivas              45€
   - premio di giornata 29a (ex aequo)   18€
   - premio di giornata 31a giornata     18€
   - premio di giornata 37a giornata     18€
-- Kita                18
+- Kita                18€
   - premio di giornata 30a giornata     18€
-- Odio                18
+- Odio                18€
   - premio di giornata 32a giornata     18€
-- Bobo                18
+- Bobo                18€
   - premio di giornata 36a giornata     18€
