@@ -68,9 +68,9 @@ Quota 170 x 8 = 1360
   - premio di giornata 29a (ex aequo)   18€
   - premio di giornata 31a giornata     18€
   - premio di giornata 37a giornata     18€
-- Kita                18€
+- Kitammuorteam       18€
   - premio di giornata 30a giornata     18€
-- Odio                18€
+- Odio la Juve        18€
   - premio di giornata 32a giornata     18€
-- Bobo                18€
+- Bobonet             18€
   - premio di giornata 36a giornata     18€
